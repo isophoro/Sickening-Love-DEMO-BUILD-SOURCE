@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clowfoe.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bench 10000" x="5" y="5" width="475" height="349" frameX="0" frameY="-14" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10001" x="485" y="5" width="460" height="357" frameX="-7" frameY="-6" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10002" x="950" y="5" width="455" height="360" frameX="-9" frameY="-3" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10003" x="1410" y="5" width="452" height="361" frameX="-11" frameY="-1" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10004" x="5" y="371" width="450" height="363" frameX="-12" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10005" x="460" y="371" width="449" height="363" frameX="-12" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10006" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10007" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10008" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10009" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10010" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10011" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10012" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+	<SubTexture name="bench 10013" x="914" y="371" width="448" height="363" frameX="-13" frameY="0" frameWidth="475" frameHeight="363"/>
+</TextureAtlas>

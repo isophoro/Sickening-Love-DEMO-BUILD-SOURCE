@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf awww0000" x="10" y="10" width="298" height="264"/>
+	<SubTexture name="gf normal0000" x="318" y="10" width="298" height="264"/>
+	<SubTexture name="gf poof0000" x="626" y="10" width="447" height="352"/>
+	<SubTexture name="gf poof0001" x="1083" y="10" width="431" height="323" frameX="0" frameY="-29" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0002" x="1524" y="10" width="354" height="271" frameX="0" frameY="-81" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0003" x="10" y="372" width="302" height="266" frameX="0" frameY="-86" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0004" x="322" y="372" width="328" height="266" frameX="0" frameY="-86" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0005" x="660" y="372" width="361" height="266" frameX="0" frameY="-86" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0006" x="1031" y="372" width="386" height="266" frameX="0" frameY="-86" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0007" x="1427" y="372" width="388" height="266" frameX="0" frameY="-86" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0008" x="10" y="648" width="302" height="266" frameX="0" frameY="-86" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf poof0009" x="10" y="648" width="302" height="266" frameX="0" frameY="-86" frameWidth="447" frameHeight="352"/>
+	<SubTexture name="gf smirk0000" x="322" y="648" width="291" height="264"/>
+	<SubTexture name="gf think0000" x="623" y="648" width="465" height="370" frameX="0" frameY="-4" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0001" x="623" y="648" width="465" height="370" frameX="0" frameY="-4" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0002" x="1098" y="648" width="471" height="374" frameX="0" frameY="0" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0003" x="1098" y="648" width="471" height="374" frameX="0" frameY="0" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0004" x="10" y="1032" width="479" height="371" frameX="0" frameY="-3" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0005" x="10" y="1032" width="479" height="371" frameX="0" frameY="-3" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0006" x="623" y="648" width="465" height="370" frameX="0" frameY="-4" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0007" x="623" y="648" width="465" height="370" frameX="0" frameY="-4" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0008" x="1098" y="648" width="471" height="374" frameX="0" frameY="0" frameWidth="479" frameHeight="374"/>
+	<SubTexture name="gf think0009" x="1098" y="648" width="471" height="374" frameX="0" frameY="0" frameWidth="479" frameHeight="374"/>
+</TextureAtlas>

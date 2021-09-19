@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbAndVapurr.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bench 20000" x="0" y="0" width="562" height="587" frameX="0" frameY="-10" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20001" x="562" y="0" width="560" height="593" frameX="-1" frameY="-4" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20002" x="1122" y="0" width="558" height="594" frameX="-2" frameY="-3" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20003" x="1680" y="0" width="558" height="595" frameX="-2" frameY="-2" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20004" x="2238" y="0" width="558" height="596" frameX="-2" frameY="-1" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20005" x="2796" y="0" width="558" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20006" x="3354" y="0" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20007" x="3354" y="0" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20008" x="0" y="597" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20009" x="0" y="597" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20010" x="557" y="597" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20011" x="557" y="597" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20012" x="1114" y="597" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+	<SubTexture name="bench 20013" x="1114" y="597" width="557" height="597" frameX="-2" frameY="0" frameWidth="562" frameHeight="597"/>
+</TextureAtlas>
